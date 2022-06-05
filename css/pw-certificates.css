@@ -27,7 +27,7 @@ img {
 .grid-img{
     width:100%;
     height:100%;
-    transition: 5s;
+    transition:0.5s;
 }
 .grid:nth-child(1){
     grid-row: 1/4;
@@ -37,7 +37,7 @@ img {
     width:100%;
     left:0px;
     bottom:-53px;
-    background-image: linear-gradient(to bottom, transparent, black);
+    background-image: linear-gradient(to bottom, transparent, #f7eac6);
     padding: 29px 15px 10px;
     transition: 0.5s;
 }
